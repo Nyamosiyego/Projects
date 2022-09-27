@@ -45,6 +45,7 @@
     cursor: pointer;
     margin-left: 5px;
     transition: background-color 0.2s;
+    vertical-align: top;
     
 }
 .Tweet-button:hover {
